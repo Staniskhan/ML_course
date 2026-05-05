@@ -18,3 +18,5 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+hw13GB/catboost_info/
